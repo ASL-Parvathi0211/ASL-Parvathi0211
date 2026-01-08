@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 Building end-to-end data pipelines and improving cloud data workflows<br>👯 Open-source data engineering projects or anything involving Spark or Airflow<br>🤝 Exploring advanced streaming patterns and scaling real-time systems<br>🌱 Deeper internals of Spark, Kafka, and modern lakehouse architectures<br>💭 Python, SQL, Spark, Airflow, AWS, GCP, and designing reliable data pipelines<br>⚡I can spend hours tuning a pipeline but forget my coffee right next to me.<br>
 
 
 # 💻 Tech Stack:
